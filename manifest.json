@@ -1,0 +1,59 @@
+{
+    "name":"Janeth Tinajero",
+    "short_name":"JT-PWA",
+    "description":"Pagina pwa de la materia de aplicaciones progresivas",
+    "background_color":"pantone",
+    "Theme_color":"pantone",
+    "orientacion":"landscape",
+    "display":"standalone",
+    "start_url":"",
+    "scope":"./",
+    "languag":"es-MX",
+    "icons":[
+        {
+            "src":"./Img/Logo J 16px.png",
+            "sizes":"16x16",
+        "Type":"image/png"
+        },
+        {
+            "src":"./Img/Logo J 32px.png",
+            "sizes":"32x32",
+        "Type":"image/png"
+        },
+        {
+            "src":"./Img/Logo J 64px.png",
+            "sizes":"64x64",
+        "Type":"image/png"
+        },
+        {
+            "src":"./Img/Logo J 96px.png",
+            "sizes":"96x96",
+        "Type":"image/png"
+        },
+        {
+            "src":"./Img/Logo J 128px.png",
+            "sizes":"128x128",
+        "Type":"image/png"
+        },
+        {
+            "src":"./Img/Logo J 192px.png",
+            "sizes":"192x192",
+        "Type":"image/png"
+        },
+        {
+            "src":"./Img/Logo J 256px.png",
+            "sizes":"256x256",
+        "Type":"image/png"
+        },
+        {
+            "src":"./Img/Logo J 512px.png",
+            "sizes":"512x512",
+        "Type":"image/png"
+        },
+        {
+            "src":"./Img/Logo J 1024px.png",
+            "sizes":"1024x1024",
+        "Type":"image/png"
+        }
+    ]
+}

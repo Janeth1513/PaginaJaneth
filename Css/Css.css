@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: gray;
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+img.yo {
+    float: right; /* Alinea la imagen a la derecha */
+    margin-left: 20px; /* Añade un margen izquierdo para separar la imagen del texto */
+    max-width: 20% ;
+  
+
+}
+
+body {
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
