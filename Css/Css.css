@@ -8,8 +8,8 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: gray;
-    color: white;
+    background-color: #d1c6b5;
+    text-decoration-color: black;
 }
 
 header {
