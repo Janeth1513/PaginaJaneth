@@ -6,52 +6,52 @@
     "Theme_color":"#d1c6b5",
     "orientacion":"landscape",
     "display":"standalone",
-    "start_url":"",
-    "scope":"./",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope":"/",
     "languag":"es-MX",
     "icons":[
         {
-            "src":"./Img/Logo J 16px.png",
+            "src":"/Img/Logo J 16px.png",
             "sizes":"16x16",
         "Type":"image/png"
         },
         {
-            "src":"./Img/Logo J 32px.png",
+            "src":"/Img/Logo J 32px.png",
             "sizes":"32x32",
         "Type":"image/png"
         },
         {
-            "src":"./Img/Logo J 64px.png",
+            "src":"/Img/Logo J 64px.png",
             "sizes":"64x64",
         "Type":"image/png"
         },
         {
-            "src":"./Img/Logo J 96px.png",
+            "src":"/Img/Logo J 96px.png",
             "sizes":"96x96",
         "Type":"image/png"
         },
         {
-            "src":"./Img/Logo J 128px.png",
+            "src":"/Img/Logo J 128px.png",
             "sizes":"128x128",
         "Type":"image/png"
         },
         {
-            "src":"./Img/Logo J 192px.png",
+            "src":"/Img/Logo J 192px.png",
             "sizes":"192x192",
         "Type":"image/png"
         },
         {
-            "src":"./Img/Logo J 256px.png",
+            "src":"/Img/Logo J 256px.png",
             "sizes":"256x256",
         "Type":"image/png"
         },
         {
-            "src":"./Img/Logo J 512px.png",
+            "src":"/Img/Logo J 512px.png",
             "sizes":"512x512",
         "Type":"image/png"
         },
         {
-            "src":"./Img/Logo J 1024px.png",
+            "src":"/Img/Logo J 1024px.png",
             "sizes":"1024x1024",
         "Type":"image/png"
         }

@@ -4,17 +4,17 @@ const CACHE_NAME='v1_cache_BRZ_PWA';
 //Configuracion de los ficheros 
 var urlsToCache= [
     './',
-    './css/Css.css',
-    '../Img/Logo J 16px.png',
-    './Img/Logo J 32px.png',
-    './Img/Logo J 64px.png',
-    './Img/Logo J 96px.png',
-    './Img/Logo J 128px.png',
-    './Img/Logo J 192px.png',
-    './Img/Logo J 256px.png',
-    './Img/Logo J 512px.png',
-    './Img/Logo J 1024px.png',
-    './img/Jsneth.jpeg',
+    '/css/Css.css',
+    '/Img/Logo J 16px.png',
+    '/Img/Logo J 32px.png',
+    '/Img/Logo J 64px.png',
+    '/Img/Logo J 96px.png',
+    '/Img/Logo J 128px.png',
+    '/Img/Logo J 192px.png',
+    '/Img/Logo J 256px.png',
+    '/Img/Logo J 512px.png',
+    '/Img/Logo J 1024px.png',
+    '/img/Jsneth.jpeg',
 ]
 
 //utilizamos la variable del evento
