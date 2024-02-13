@@ -4,7 +4,7 @@ const CACHE_NAME='v1_cache_BRZ_PWA';
 //Configuracion de los ficheros 
 var urlsToCache= [
     './',
-    '/css/Css.css',
+    'Css/Css.css',
     '/Img/Logo J 16px.png',
     '/Img/Logo J 32px.png',
     '/Img/Logo J 64px.png',
@@ -14,7 +14,7 @@ var urlsToCache= [
     '/Img/Logo J 256px.png',
     '/Img/Logo J 512px.png',
     '/Img/Logo J 1024px.png',
-    '/img/Jsneth.jpeg',
+    '/img/Janeth.jpeg',
 ]
 
 //utilizamos la variable del evento
@@ -64,7 +64,7 @@ self.addEventListener('fetch', e=>{
                             //devuelvo datos desde ña cache
                 return res;
             }
-            return fetch(e.request); //se hace la peticion al servidor en caso de que no este disponible en ña cache
+            return fetch(e.request); //se hace la peticion al servidor en caso de que no este disponible en la cache
         })
     );
 });
